@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{D1E23872-BAFE-414B-BBFD-CB81D4EDBEE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.AttendoAPI.Infraestructura FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AttendoAPI.Comunes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AttendoAPI.Configuracion FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AttendoAPI.Dominio FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AttendoAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+</Properties>

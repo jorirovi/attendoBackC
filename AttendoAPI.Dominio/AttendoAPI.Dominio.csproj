@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AttendoAPI.Comunes\AttendoAPI.Comunes.csproj" />
+    <ProjectReference Include="..\AttendoAPI.Infraestructura\AttendoAPI.Infraestructura.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Attendo\" />
+    <None Remove="Attendo\General\" />
+    <None Remove="Attendo\Clients\" />
+    <None Remove="Attendo\Contacts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Attendo\" />
+    <Folder Include="Attendo\General\" />
+    <Folder Include="Attendo\Clients\" />
+    <Folder Include="Attendo\Contacts\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.26" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.26">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AttendoAPI.Comunes\AttendoAPI.Comunes.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="DataBase\" />
+    <None Remove="Repositorios\" />
+    <None Remove="DataBase\Entity\" />
+    <None Remove="DataBase\Context\" />
+    <None Remove="Repositorios\Attendo\" />
+    <None Remove="Repositorios\Attendo\General\" />
+    <None Remove="Repositorios\Attendo\Clients\" />
+    <None Remove="Repositorios\Attendo\Contactos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataBase\" />
+    <Folder Include="Repositorios\" />
+    <Folder Include="DataBase\Entity\" />
+    <Folder Include="DataBase\Context\" />
+    <Folder Include="Repositorios\Attendo\" />
+    <Folder Include="Repositorios\Attendo\General\" />
+    <Folder Include="Repositorios\Attendo\Clients\" />
+    <Folder Include="Repositorios\Attendo\Contactos\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Infraestructura.deps.json
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Infraestructura.runtimeconfig.json
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Infraestructura.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Infraestructura.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Comunes.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/bin/Debug/net6.0/AttendoAPI.Comunes.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.csproj.AssemblyReference.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.AssemblyInfoInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.AssemblyInfo.cs
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.csproj.CoreCompileInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.csproj.CopyComplete
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/refint/AttendoAPI.Infraestructura.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/AttendoAPI.Infraestructura.genruntimeconfig.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Infraestructura/obj/Debug/net6.0/ref/AttendoAPI.Infraestructura.dll

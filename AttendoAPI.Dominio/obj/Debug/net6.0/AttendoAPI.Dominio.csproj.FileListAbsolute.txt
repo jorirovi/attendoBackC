@@ -1,0 +1,17 @@
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Dominio.deps.json
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Dominio.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Dominio.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Comunes.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Infraestructura.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Comunes.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/bin/Debug/net6.0/AttendoAPI.Infraestructura.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.csproj.AssemblyReference.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.AssemblyInfoInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.AssemblyInfo.cs
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.csproj.CoreCompileInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.csproj.CopyComplete
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/refint/AttendoAPI.Dominio.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/AttendoAPI.Dominio.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Dominio/obj/Debug/net6.0/ref/AttendoAPI.Dominio.dll

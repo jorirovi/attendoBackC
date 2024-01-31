@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Clasess\" />
+    <None Remove="Clasess\Contratos\" />
+    <None Remove="Clasess\Contratos\Clients\" />
+    <None Remove="Clasess\Excepciones \" />
+    <None Remove="Clasess\Contratos\Contacts\" />
+    <None Remove="Clasess\Constantes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Clasess\" />
+    <Folder Include="Clasess\Contratos\" />
+    <Folder Include="Clasess\Contratos\Clients\" />
+    <Folder Include="Clasess\Excepciones \" />
+    <Folder Include="Clasess\Contratos\Contacts\" />
+    <Folder Include="Clasess\Constantes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+</Project>

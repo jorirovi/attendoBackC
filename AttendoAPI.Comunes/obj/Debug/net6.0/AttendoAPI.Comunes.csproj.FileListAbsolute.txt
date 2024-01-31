@@ -1,0 +1,12 @@
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/bin/Debug/net6.0/AttendoAPI.Comunes.deps.json
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/bin/Debug/net6.0/AttendoAPI.Comunes.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/bin/Debug/net6.0/AttendoAPI.Comunes.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.csproj.AssemblyReference.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.AssemblyInfoInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.AssemblyInfo.cs
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.csproj.CoreCompileInputs.cache
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/refint/AttendoAPI.Comunes.dll
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/AttendoAPI.Comunes.pdb
+/Users/jorgeromero/Documents/Desarrollo/CSharp/AttendoAPI/AttendoAPI/AttendoAPI.Comunes/obj/Debug/net6.0/ref/AttendoAPI.Comunes.dll
